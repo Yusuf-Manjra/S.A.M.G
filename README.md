@@ -7,7 +7,7 @@
 
 ## Mechanics, Weapons and Features From Each Game
 | Game | Mechanic | Weapon(s) |
-| --- | --- |
+| :--- | :---: | ---: |
 | Quake | Fast-Paced Aerial Movement With A Focus On Precision | Railgun |
 | Cyberpunk | TBA | TBA |
 | Team Fortress | TBA | TBA |
